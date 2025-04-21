@@ -1,9 +1,8 @@
 # DOIO-Link-Shaft
 Design for Phreakmods Link Shaft for use in a DOIO Competitive Direction Rod Assembly: https://doioshop.com/products/aluminum-alloy-arcade-joystick-kbgm-h08be?VariantsId=10705
+This lever is an avaialable upgrade part for the KBGM-H08B and H08C arcade sticks.
 
 Modeled and adapted from TayTaysPJs' measurements and my previous work here: https://github.com/lethalmonk6/E-clipless-Link-Shaft
-
-This joystick is used in the DOIO KBGM-H08BE.
 
 STEP and PDF files are required for CNC fabrication using JLCCNC.
 
